@@ -1,1 +1,1 @@
-# Pegasus-Mac-
+Skeleton‑Repos
